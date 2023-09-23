@@ -20,10 +20,6 @@ Welcome to my GitHub repository where I showcase projects related to extracting 
 - **Description:** Similar to the previous project, this one focuses on plotting historical stock prices, but for GameStop. It includes code for creating stock price graphs.
 - **Usage:** Visualize GameStop's stock price trends over time for investment or research purposes.
 
-## Getting Started
-
-To get started with any of these projects, follow the README instructions provided within each project folder. You'll find detailed steps on how to run the code and utilize the extracted data.
-
 ## Contributing
 
 If you'd like to contribute to these projects, feel free to fork this repository, make your changes, and submit a pull request. Contributions and improvements are always welcome!
